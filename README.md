@@ -13,6 +13,10 @@
 
 A C++ program to replicate the famous prompt on Neo's screen from "The Matrix"
 
+## Requirements
+
+Packages: ```git``` ```make``` ```gcc```
+
 ## Installation
 
 ### Manual
@@ -42,7 +46,7 @@ $ sudo cp bin/wake_up /usr/local/bin/
 $ wake_up
 ```
 
-## Support
+## Compatibility
 
 Please note that this program was developed and intended for Linux. It uses system commands, such as "clear" and "read". I do not own a MacOS environment or a BSD environment (and too lazy to set up one), but any help with porting will be greatly appreciated.
 
