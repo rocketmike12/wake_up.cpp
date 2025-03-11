@@ -1,3 +1,6 @@
+// wake_up.cpp
+// Copyright (c) 2025 rocketmike12
+// Licensed under the MIT License (see LICENSE.md)
 
 #include <cstdlib>
 #include <iostream>
@@ -36,6 +39,10 @@ int main () {
 
 	// Initialize RNG	
 	srand (time(NULL));
+
+	// Initial delay
+	system("clear");
+	this_thread::sleep_for(phraseDelay);	
 
 	// slow() first three phrases
 
