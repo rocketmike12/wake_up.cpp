@@ -19,27 +19,27 @@ A C++ program to replicate the famous prompt on Neo's screen from "The Matrix"
 
 #### Clone the repo
 ```shell
-git clone https://github.com/rocketmike12/wake_up.cpp.git
+$ git clone https://github.com/rocketmike12/wake_up.cpp.git
 ```
 
 #### Cd into the newly cloned folder
 ```shell
-cd wake_up.cpp
+$ cd wake_up.cpp
 ```
 
 #### Compile the binary
 ```shell
-make
+$ make
 ```
-#### Copy the binary to /usr/bin/
+#### Copy the binary to /usr/local/bin/ to add it to PATH
 ```shell
-sudo cp bin/wake_up /usr/bin/
+$ sudo cp bin/wake_up /usr/local/bin/
 ```
 
 ## Usage
 
 ```shell
-wake_up
+$ wake_up
 ```
 
 ## Support
@@ -53,3 +53,6 @@ Please note that this program was developed and intended for Linux. It uses syst
     <li>"screensaver" mode</li>
     <li>customizable delays and effects</li>
 </ul>
+
+## Credits
+Demo animation made using [peek](https://github.com/phw/peek) and [cool-retro-term](https://github.com/Swordfish90/cool-retro-term/)
