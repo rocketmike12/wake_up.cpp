@@ -46,10 +46,10 @@ wake_up
 
 Please note that this program was developed and intended for Linux. It uses system commands, such as "clear" and "read". I do not own a MacOS environment or a BSD environment (and too lazy to set up one), but any help with porting will be greatly appreciated.
 
-## Contributors
-
-<a href="https://github.com/rocketmike12/wake_up.cpp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rocketmike12/wake_up.cpp" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
+## Planned features
+<ul>
+    <li>"help" and "version" flags</li>
+    <li>"loop" mode</li>
+    <li>"screensaver" mode</li>
+    <li>customizable delays and effects</li>
+</ul>
