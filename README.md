@@ -58,5 +58,6 @@ Please note that this program was developed and intended for Linux. It uses syst
     <li>customizable delays and effects</li>
 </ul>
 
-## Credits
-Demo animation made using [peek](https://github.com/phw/peek) and [cool-retro-term](https://github.com/Swordfish90/cool-retro-term/)
+## Misc
+Demo animation made using [peek](https://github.com/phw/peek) and [cool-retro-term](https://github.com/Swordfish90/cool-retro-term/) <br>
+Here is the [cool-retro-term theme](https://github.com/rocketmike12/crt_themes/blob/main/matrix.json) used in the demo
