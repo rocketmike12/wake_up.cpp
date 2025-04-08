@@ -48,7 +48,7 @@ $ wake_up
 
 ## Compatibility
 
-Please note that this program was developed and intended for Linux. It uses system commands, such as "clear" and "read". I do not own a MacOS environment or a BSD environment (and too lazy to set up one), but any help with porting will be greatly appreciated.
+Please note that this program was developed and intended for Linux. It uses system commands, such as "clear" and "read". The program should theoretically be compatible with BSD and MacOS. Any help with porting will be greatly appreciated.
 
 ## Planned features
 <ul>
